@@ -23,7 +23,7 @@
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=davidruart&theme=radical)
 
-![Profile views](https://komarev.com/ghpvc/?username=daviddruart&color=blue)
+![Profile Views](https://img.shields.io/badge/dynamic/json?color=blue&label=Profile%20Views&query=value&url=https://api.countapi.xyz/hit/daviddruart/github&style=flat)
 
 ## 📫 Conéctate conmigo
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/david-rincon-0b050b290/)
