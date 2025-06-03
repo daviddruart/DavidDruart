@@ -1,9 +1,9 @@
 # 👋 ¡Hola, soy Cristian Rincón!
 
-🎯 Desarrollador de Software | ⚙️ Electromecánico | 🌱 Apasionado por la tecnología
+🎯 Desarrollador de Software | 🌱 Apasionado por la tecnología
 
 ## 🚀 Sobre mí
-- 🎓 Formación en desarrollo de software y electromecánica
+- 🎓 Formación en desarrollo de software
 - 🛠️ Experiencia en mantenimiento eléctrico, asesoría comercial y almacén
 - 💡 Interesado en proyectos de automatización, IoT y plataformas web
 
@@ -19,5 +19,6 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tu-usuario&layout=compact&theme=radical)
 
 ## 📫 Conéctate conmigo
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/tu-linkedin)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:tuemail@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/david-rincon-0b050b290/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/david.dru.art)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:davidrincondru008@gmail.com)
