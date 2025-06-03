@@ -21,8 +21,6 @@
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=daviddruart&theme=radical)
 
-![trophy](https://github-profile-trophy.vercel.app/?username=davidruart&theme=radical)
-
 ![Profile Views](https://img.shields.io/badge/dynamic/json?color=blue&label=Profile%20Views&query=value&url=https://api.countapi.xyz/hit/daviddruart/github&style=flat)
 
 ## 📫 Conéctate conmigo
