@@ -14,9 +14,15 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 
 ## 📈 Estadísticas
-![Cristian's GitHub stats](https://github-readme-stats.vercel.app/api?username=tu-usuario&show_icons=true&theme=radical)
+![Cristian's GitHub stats](https://github-readme-stats.vercel.app/api?username=tu_usuario&show_icons=true&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tu-usuario&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tu_usuario&layout=compact&theme=radical)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=tu_usuario&theme=radical)
+
+![trophy](https://github-profile-trophy.vercel.app/?username=tu_usuario&theme=radical)
+
+![Profile views](https://komarev.com/ghpvc/?username=tu_usuario&color=blue)
 
 ## 📫 Conéctate conmigo
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/david-rincon-0b050b290/)
