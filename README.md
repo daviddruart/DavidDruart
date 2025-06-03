@@ -1,4 +1,4 @@
-![Banner](https://i.pinimg.com/736x/66/e8/65/66e865d3fc8fbddcdf1faf01e0c10a63.jpg)
+![Banner](https://i.pinimg.com/736x/35/d9/6a/35d96a6b1febf7463d0f43d3dab4e5f5.jpg)
 
 # 👋 ¡Hola, soy Cristian Rincón!
 
