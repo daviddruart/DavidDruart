@@ -1,6 +1,5 @@
-![Banner](https://i.pinimg.com/736x/35/d9/6a/35d96a6b1febf7463d0f43d3dab4e5f5.jpg)
-
 # 👋 ¡Hola, soy Cristian Rincón!
+![Banner](https://i.pinimg.com/736x/35/d9/6a/35d96a6b1febf7463d0f43d3dab4e5f5.jpg)
 
 🎯 Desarrollador de Software | 🌱 Apasionado por la tecnología
 
@@ -16,15 +15,15 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 
 ## 📈 Estadísticas
-![Cristian's GitHub stats](https://github-readme-stats.vercel.app/api?username=tu_usuario&show_icons=true&theme=radical)
+![Cristian's GitHub stats](https://github-readme-stats.vercel.app/api?username=daviddruart&show_icons=true&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tu_usuario&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=daviddruart&layout=compact&theme=radical)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=tu_usuario&theme=radical)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=daviddruart&theme=radical)
 
-![trophy](https://github-profile-trophy.vercel.app/?username=tu_usuario&theme=radical)
+![trophy](https://github-profile-trophy.vercel.app/?username=davidruart&theme=radical)
 
-![Profile views](https://komarev.com/ghpvc/?username=tu_usuario&color=blue)
+![Profile views](https://komarev.com/ghpvc/?username=daviddruart&color=blue)
 
 ## 📫 Conéctate conmigo
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/david-rincon-0b050b290/)
